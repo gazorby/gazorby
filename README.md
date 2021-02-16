@@ -1,6 +1,6 @@
 ### Hey! 👋
 
-I'm Mathew. Good to see you. I'm a full-stack developer in apprenticeship and work on some open source projects, take a look! 🤞
+I'm Matthew. Good to see you. I'm a full-stack developer in apprenticeship and work on some open source projects, take a look! 🤞
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gazorby&custom_title=Gazorby's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 
