@@ -13,7 +13,7 @@ I'm Matthieu. Good to see you. I'm a software engineer at [@drinn](https://githu
 
 ---
 
-### Contact
+### Where to contact me
 
 I'm always happy to meet people, send me a message!
 
