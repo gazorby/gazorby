@@ -1,8 +1,8 @@
-### Hey! 👋
+# 👋 Hey!
 
 I'm Matthieu. Good to see you. I'm a software engineer at [@drinn](https://github.com/drinn-org) and work on some open source projects, take a look! 🤞
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gazorby&custom_title=Gazorby's%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+![gazorby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gazorby&show_icons=true&theme=radical&custom_title=Gazorby's%20Github%20Stats)
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-1572B6?logo=python&logoColor=white&style=for-the-badge" />
@@ -13,7 +13,7 @@ I'm Matthieu. Good to see you. I'm a software engineer at [@drinn](https://githu
 
 ---
 
-### Where to contact me
+## 🤝 Connect with Me
 
 I'm always happy to meet people, send me a message!
 
