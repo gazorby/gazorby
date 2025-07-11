@@ -1,6 +1,6 @@
 # 👋 Hey!
 
-I'm Matthieu. Nice to meet you. I'm a software engineer looking for something new, and in the meantime I'm working on some open source projects, check them out! 🤞
+I'm Matthieu. Nice to meet you! I'm a software engineer @Worklife, and I spend some of my free time working on open-source projects. Feel free to check them out! 🤞
 
 ![gazorby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gazorby&show_icons=true&theme=radical&custom_title=Gazorby's%20Github%20Stats)
 
